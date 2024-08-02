@@ -1,0 +1,6 @@
+### GET
+GET http://localhost:4000/topics
+
+### GET Databases milvus
+GET http://localhost:4000/milvus/databases
+
